@@ -112,6 +112,7 @@ Atest [5] This is a test.
 - **Integrity Check** [11] A period comparison between the stored file's computed MD5 value and its MD5 value stored in the metadata. When the two match, the file passes this integrity check.
 - **Interface** [3] Physical or virtualized devices that interconnect devices or medium.
 - **Ironic** [15] OpenStack project that provisions bare metal, as opposed to VM instances.
+- **ISCSI [13] Internet Small Computer System Interface - works on top of TCP and allows the SCSI commands to be sent over IP
 - **JSON** [5] *JavaScript Object Notation* One of the supported response formats in OpenStack.
 - **Kernel Based VM** [4] *KVM* An OpenStack-supported hypervisor. KVM is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V), ARM, IBM Power, and IBM zSeries. It consists of a loadable kernel module, that provides the core virtualization infrastructure and a processor specific module.
 - **Kelli** [1] One crazy old lady studying Openstack.
